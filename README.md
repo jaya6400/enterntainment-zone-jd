@@ -2,7 +2,7 @@
 
 [Website](http://localhost:3000)
 
-![Screenshot](screenshot.png)
+![Screenshot](https://github.com/jaya6400/enterntainment-zone/blob/master/Trending%20page.png)
 
 # Getting Started with Create React App
 
