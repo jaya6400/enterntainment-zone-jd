@@ -1,3 +1,4 @@
+import React from 'react';
 import axios from "axios";
 import Genres from "../../components/Genres/Genres";
 import { useEffect, useState } from "react";
