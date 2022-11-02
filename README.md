@@ -1,6 +1,6 @@
 # Enterntainment-Zone App
 
-[Website](http://your-enterntainment-zone-jd.netlify.app)
+### Hosted my website on Netlify- _[Website](http://your-enterntainment-zone-jd.netlify.app)_
 
 ![Screenshot](https://github.com/jaya6400/enterntainment-zone/blob/master/Trending%20page.png)
 
