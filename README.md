@@ -1,6 +1,6 @@
 # Enterntainment-Zone App
 
-[Website](http://localhost:3000)
+[Website](http://your-enterntainment-zone-jd.netlify.app)
 
 ![Screenshot](https://github.com/jaya6400/enterntainment-zone/blob/master/Trending%20page.png)
 
