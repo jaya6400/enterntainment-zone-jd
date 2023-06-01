@@ -1,6 +1,14 @@
 # Enterntainment-Zone App
-### Hosted my website on Netlify- _[Website](http://your-enterntainment-zone-jd.netlify.app)_
-![Screenshot](https://github.com/jaya6400/enterntainment-zone/blob/master/Trending%20page.png)
+>_Created a Journal blog website and deployed it at Netlify_
+----
+_[Website](http://your-enterntainment-zone-jd.netlify.app)_
+![Trending page](https://github.com/jaya6400/enterntainment-zone/assets/66017717/e02ff391-6b96-4416-b000-f271dfc81ce3)
+
+>*Tech stack used* - 
+
+- [x] _**React.js**_, _**HTML**_, _**CSS**_
+
+- [x] _Database_ - _**Firebase**_(used services of _Google Cloud_)
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Learn More
