@@ -1,5 +1,5 @@
 # Enterntainment-Zone App
->_Created a Movies & series recommendation app and deployed it at Netlify_
+>_**Created a Movies & series recommendation app and deployed it at Netlify**_
 ----
 _[Website](http://your-enterntainment-zone-jd.netlify.app)_
 ![Trending page](https://github.com/jaya6400/enterntainment-zone/assets/66017717/e02ff391-6b96-4416-b000-f271dfc81ce3)
@@ -9,7 +9,7 @@ _[Website](http://your-enterntainment-zone-jd.netlify.app)_
 - [x] _**React.js**_, _**HTML**_, _**CSS**_
 
 - [x] _Database_ - _**Firebase**_(used services of _Google Cloud_)
-# Getting Started with Create React App
+### Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Learn More
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
