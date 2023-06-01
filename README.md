@@ -8,7 +8,7 @@ _[Website](http://your-enterntainment-zone-jd.netlify.app)_
 
 - [x] _**React.js**_, _**HTML**_, _**CSS**_
 
-- [x] _Database_ - _**Firebase**_(used services of _Google Cloud_)
+- [x] _API Backend_ - _**MovieDB**_
 ### Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Learn More
