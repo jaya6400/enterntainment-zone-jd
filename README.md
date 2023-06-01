@@ -1,5 +1,5 @@
 # Enterntainment-Zone App
->_Created a Journal blog website and deployed it at Netlify_
+>_Created a Movie& series recommendation app and deployed it at Netlify_
 ----
 _[Website](http://your-enterntainment-zone-jd.netlify.app)_
 ![Trending page](https://github.com/jaya6400/enterntainment-zone/assets/66017717/e02ff391-6b96-4416-b000-f271dfc81ce3)
